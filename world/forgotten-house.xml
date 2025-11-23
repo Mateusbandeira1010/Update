@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<houses>
+  <house name="house1" houseid="1" entryx="156" entryy="106" entryz="7" rent="4000000" townid="1" size="20"/>
+  <house name="house2" houseid="2" entryx="165" entryy="106" entryz="7" rent="4000000" townid="1" size="20"/>
+  <house name="house3" houseid="3" entryx="173" entryy="106" entryz="7" rent="4000000" townid="1" size="20"/>
+  <house name="house4" houseid="4" entryx="184" entryy="104" entryz="7" rent="4000000" townid="1" size="54"/>
+  <house name="house5" houseid="5" entryx="177" entryy="113" entryz="7" rent="4000000" townid="1" size="41"/>
+  <house name="house6" houseid="6" entryx="199" entryy="107" entryz="7" rent="4000000" townid="1" size="61"/>
+  <house name="house7" houseid="7" entryx="229" entryy="89" entryz="7" rent="4000000" townid="1" size="21"/>
+  <house name="house8" houseid="8" entryx="233" entryy="79" entryz="7" rent="4000000" townid="1" size="53"/>
+  <house name="house9" houseid="9" entryx="194" entryy="94" entryz="7" rent="4000000" townid="1" size="53"/>
+  <house name="house10" houseid="10" entryx="191" entryy="87" entryz="7" rent="4000000" townid="1" size="28"/>
+  <house name="house11" houseid="11" entryx="191" entryy="82" entryz="7" rent="4000000" townid="1" size="28"/>
+  <house name="house12" houseid="12" entryx="191" entryy="77" entryz="7" rent="4000000" townid="1" size="42"/>
+  <house name="house13" houseid="13" entryx="188" entryy="75" entryz="7" rent="4000000" townid="1" size="28"/>
+  <house name="house14" houseid="14" entryx="187" entryy="78" entryz="7" rent="4000000" townid="1" size="22"/>
+  <house name="house15" houseid="15" entryx="175" entryy="79" entryz="7" rent="4000000" townid="1" size="15"/>
+  <house name="house16" houseid="16" entryx="166" entryy="72" entryz="7" rent="4000000" townid="1" size="20"/>
+  <house name="house17" houseid="17" entryx="161" entryy="83" entryz="7" rent="4000000" townid="1" size="35"/>
+  <house name="house18" houseid="18" entryx="152" entryy="71" entryz="7" rent="4000000" townid="1" size="21"/>
+  <house name="house19" houseid="19" entryx="149" entryy="79" entryz="7" rent="4000000" townid="1" size="27"/>
+  <house name="house20" houseid="20" entryx="140" entryy="106" entryz="7" rent="4000000" townid="1" size="18"/>
+  <house name="house21" houseid="21" entryx="136" entryy="113" entryz="7" rent="4000000" townid="1" size="24"/>
+  <house name="house22" houseid="22" entryx="128" entryy="114" entryz="7" rent="4000000" townid="1" size="14"/>
+  <house name="house23" houseid="23" entryx="115" entryy="110" entryz="7" rent="4000000" townid="1" size="36"/>
+  <house name="house24" houseid="24" entryx="114" entryy="113" entryz="7" rent="4000000" townid="1" size="34"/>
+  <house name="house25" houseid="25" entryx="110" entryy="116" entryz="7" rent="4000000" townid="1" size="125"/>
+  <house name="house26" houseid="26" entryx="108" entryy="109" entryz="7" rent="4000000" townid="1" size="24"/>
+  <house name="house27" houseid="27" entryx="111" entryy="101" entryz="7" rent="4000000" townid="1" size="81"/>
+  <house name="house28" houseid="28" entryx="86" entryy="88" entryz="7" rent="4000000" townid="1" size="9"/>
+  <house name="house29" houseid="29" entryx="86" entryy="85" entryz="7" rent="4000000" townid="1" size="6"/>
+  <house name="house30" houseid="30" entryx="86" entryy="81" entryz="7" rent="4000000" townid="1" size="9"/>
+  <house name="house31" houseid="31" entryx="91" entryy="81" entryz="7" rent="4000000" townid="1" size="12"/>
+  <house name="house32" houseid="32" entryx="92" entryy="88" entryz="7" rent="4000000" townid="1" size="8"/>
+  <house name="house33" houseid="33" entryx="95" entryy="84" entryz="7" rent="4000000" townid="1" size="9"/>
+  <house name="house34" houseid="34" entryx="99" entryy="82" entryz="7" rent="4000000" townid="1" size="8"/>
+</houses>
+
+
