@@ -1,3 +1,3 @@
 function onUpdateDatabase()
-    return true
+    return true 
 end
